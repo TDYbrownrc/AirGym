@@ -13,6 +13,7 @@ Install to your Python3 environment with
 This interface supports 2 drone control types: discrete positional control and continuous velocity control. These are initialization arguments passed into the OpenAI gym initialization script.
 
 Create a gym environment like this:
+
 `import gym`
 
 `import air_gym`
